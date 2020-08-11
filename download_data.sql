@@ -1,4 +1,4 @@
-# lets check which cities avavalable from Hungary
+# let's check which cities avavalable from Hungary
 SELECT * FROM city_list WHERE country = 'Hungary'
 
 # get Budapest data
